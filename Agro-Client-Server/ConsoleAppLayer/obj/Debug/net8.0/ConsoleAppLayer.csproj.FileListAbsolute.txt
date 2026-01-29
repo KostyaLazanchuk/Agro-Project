@@ -1,0 +1,15 @@
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/bin/Debug/net8.0/ConsoleAppLayer
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/bin/Debug/net8.0/ConsoleAppLayer.deps.json
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/bin/Debug/net8.0/ConsoleAppLayer.runtimeconfig.json
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/bin/Debug/net8.0/ConsoleAppLayer.dll
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/bin/Debug/net8.0/ConsoleAppLayer.pdb
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.AssemblyInfoInputs.cache
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.AssemblyInfo.cs
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.csproj.CoreCompileInputs.cache
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.sourcelink.json
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.dll
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/refint/ConsoleAppLayer.dll
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.pdb
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ConsoleAppLayer.genruntimeconfig.cache
+/home/keefy/Projects/MyProject/Agro-Project/Agro-Client-Server/ConsoleAppLayer/obj/Debug/net8.0/ref/ConsoleAppLayer.dll

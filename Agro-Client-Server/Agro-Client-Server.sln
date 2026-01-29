@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppLayer", "ConsoleAppLayer\ConsoleAppLayer.csproj", "{15D22D2A-9FC6-4081-9EDD-BD6E906B498C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agro.Data", "Agro.Data\Agro.Data.csproj", "{5635575A-B054-4613-9179-5029D39E3556}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{15D22D2A-9FC6-4081-9EDD-BD6E906B498C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15D22D2A-9FC6-4081-9EDD-BD6E906B498C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15D22D2A-9FC6-4081-9EDD-BD6E906B498C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5635575A-B054-4613-9179-5029D39E3556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5635575A-B054-4613-9179-5029D39E3556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5635575A-B054-4613-9179-5029D39E3556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5635575A-B054-4613-9179-5029D39E3556}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
