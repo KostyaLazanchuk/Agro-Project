@@ -1,1 +1,1 @@
-# Agro-Client-Server
+# Agro-Project (Course Project for Master degree)
